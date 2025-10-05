@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="images/ml-zoomcamp.png" alt="Machine Learning Zoomcamp">
+  <img width="100%" src="ml-zoomcamp.png" alt="Machine Learning Zoomcamp">
 </p>
 <h1 align="center">
     <strong>Machine Learning Zoomcamp: A Free 4-Month Course on ML Engineering</strong>
